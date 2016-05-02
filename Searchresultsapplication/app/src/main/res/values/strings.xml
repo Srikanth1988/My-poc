@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Search results application</string>
+    <string name="network_unavailable_text">Network is not available</string>
+    <string name="ok_text">OK</string>
+    <string name="opps_sorry_text">Oops sorry</string>
+    <string name="error_msg_text">There was an error, please try again later</string>
+    <string name="details">Details:</string>
+    <string name="no_items_found_text">No items found</string>
+    <string name="service_error_text">There is service error</string>
+    <string name="search_placeholder_text">Search for anything</string>
+    <string name="no_results_text">No search results found</string>
+</resources>
